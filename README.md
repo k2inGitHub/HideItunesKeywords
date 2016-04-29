@@ -1,0 +1,3 @@
+# HideItunesKeywords
+Google Extension
+隐藏iTunesConnector后台产品关键词，表面上它只是个表
